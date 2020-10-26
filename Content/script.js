@@ -1,3 +1,4 @@
+
 //selected by ID using DOM
 var currFrom,currto,amountFrom,amountTo,perRate,btnSwap;
 
